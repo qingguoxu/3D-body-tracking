@@ -22,4 +22,4 @@ converted to 3D points cloud and then be converted to a 3D mesh. Finally the 3D 
 by OpenGL. To make the system efficient, I can only convert the human subject to 3D mesh according to the mask image.
 
 The deep learning part is using https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose
-Build caffe on Windows refers to https://initialneil.wordpress.com/2015/01/11/build-caffe-in-windows-with-visual-studio-2013-cuda-6-5-opencv-2-4-9/
+Build caffe on Windows refers to https://initialneil.wordpress.com/2015/01/11/build-caffe-in-windows-with-visual-studio-2013-cuda-6-5-opencv-2-4-9/ , if you miss some third party libraries, please go to the above link and download the compiled libs.
