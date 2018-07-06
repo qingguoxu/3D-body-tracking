@@ -1,3 +1,7 @@
+1. Double click caffe.sln (under caffe folder) to open the visual studio solution. It will load all the source code.
+2. The main function is in rtpose.cpp file. It calls other functions.
+
+
 Although Kinect can do body tracking real time, it cannot tell whether a person
 in the view is facing or showing back to the camera. So in practice, this shortcoming
 will restrict the popularity in applications that user may turn around. Besides that,
